@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const prefix = ".";
+const prefix = "404t";
 client.on("message", message => {
   if (message.content === ".") {
     if (message.channel.guild) {
@@ -25,6 +25,6 @@ client.on("message", message => {
   }
 });
 
-client.login("MTU0ODMwMjE5NzMyMDg1MTQ5Nw.GkxrBZ.CvCB8nCRHIVdOTdABuk83kp9DOtd5EsiE0X1gk")
+client.login("MTU0ODMwMjE5NzMyMDg1MTQ5Nw.G4D8aO.zzc-7tL6UOzFQXkvo4CWAgkiGqX5DG0Qv8GBPc")
 
 ////Respect Up////
